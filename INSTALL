@@ -1,0 +1,9 @@
+Building FirstLand
+
+See doc/readme-qt.rst for instructions on building FirstLand QT,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of FirstLand.
+
+See doc/build-*.txt for instructions on building firstlandd,
+the intended-for-services, no-graphical-interface, reference
+implementation of FirstLand.
